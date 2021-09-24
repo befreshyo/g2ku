@@ -1,21 +1,12 @@
 
-body {
-    background-color: rgb(178, 178, 211);}
+body {background-color: rgb(178, 178, 211);}
   
-    .center {
+.center {
      text-align: center;}
   
-     .img-container {
-    text-align: center;}
  
-    a {
-     color: rgb(59, 34, 100);}
+a {color: rgb(59, 34, 100);}
   
-  div {
-    margin-top: 0px;
-    margin-bottom: 0px;
-    margin-right: 150px;
-    margin-left: 80px; }
  
   h1, h3, h4, ul, p, a{
      margin: 0;
@@ -25,4 +16,8 @@ body {
   font-size: 14px;}
 
   #wrapper {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 150px;
+    margin-left: 80px; 
     width:960px;}
