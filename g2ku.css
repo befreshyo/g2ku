@@ -2,22 +2,26 @@
 body {background-color: rgb(178, 178, 211);}
   
 .center {
-     text-align: center;}
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 300px;
+    margin-left: 100px; }
   
  
 a {color: rgb(59, 34, 100);}
   
- 
-  h1, h3, h4, ul, p, a{
-     margin: 0;
-     font-family: arial;}
+ h1{ 
+ }
+
+    h3, h4, ul, p{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 300px;
+    margin-left: 80px; 
+    font-family: arial;}
  
   p, a, ul{
   font-size: 14px;}
 
   #wrapper {
-    margin-top: 0px;
-    margin-bottom: 0px;
-    margin-right: 150px;
-    margin-left: 80px; 
     width:960px;}
