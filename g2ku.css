@@ -22,7 +22,8 @@ a {color: rgb(59, 34, 100);}
     font-size: 14px;}
  
   a, ul{
-  font-size: 14px;}
+  font-size: 14px;
+  font-family: arial;}
 
   #wrapper {
     width:960px;}
